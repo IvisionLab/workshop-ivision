@@ -32,7 +32,7 @@ Nesse workshop (Oficina) será apresentado aos alunos do Ivision Lab os conceito
 ### 14/08/2018 das 9h às 12h (Luciano Oliveira)
 * 3\. Redes Convolucionais
 
-### 14/08/2018 das 14h às 17h (Kalfy)
+### 14/08/2018 das 14h às 17h (Kalyf)
 * 4\. Ferramentas para redes convolucionais
 	* 4.1\. Keras
 	* 4.2\. Tensorflow
