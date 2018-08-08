@@ -13,7 +13,7 @@ Nesse workshop (Oficina) será apresentado aos alunos do Ivision Lab os conceito
 	* 1.1\. Usando virtualenv
 		* 1.1.1\. Instalação
 		* 1.1.2\. Configuração
-		* 1.1.3\. Gerencia de pacotes (pip) 
+		* 1.1.3\. Gerência de pacotes (pip) 
   	* 1.2 Usando docker
   		* 1.2.1\. Instalação
   		* 1.2.2\. Configuração
