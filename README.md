@@ -20,16 +20,15 @@ Nesse workshop (Oficina) será apresentado aos alunos do Ivision Lab os conceito
 		* 1.2.4\. Criando a própria imagem (Dockerfile)
 		* 1.2.5\. Gerenciando containers e imagens
 * 2\. Ferramentas básicas
-	* 2.1\. Numpy
-	* 2.2\. Matplotlib
-	* 2.3\. Pandas
-	* 2.4\. Jupyter Notebook
-
+	* 2.1\. Jupyter Notebook
+	* 2.2\. Python
+	* 2.3\. Numpy
+	* 2.4\. Matplotlib
+	* 2.5\. Pandas
 * 3\. Redes Convolucionais
 * 4\. Ferramentas para redes convolucionais
 	* 4.1\. Keras
 	* 4.2\. Tensorflow
-
 * 5\. Treinamento e avaliação de redes convolucionais
 * 6\. Transfere learning
 * 7\. Rede convolucionais modernas
