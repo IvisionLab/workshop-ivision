@@ -6,6 +6,10 @@ Deep Learning com Python para visão computacional
 ## Descrição
 Nesse workshop (Oficina) será apresentado aos alunos do Ivision Lab os conceitos introdutórios de Deep Learning utilizando ferramentas Python para visão computacional.
 
+## Local
+
+Centro de Capacitação Tecnológica em Automação Industrial - CTAI,  Escola Politécnica, 2º andar.
+
 ## Programação
 
 ### 13/08/2018 das 9h às 12h (Ricardo Perrone)
@@ -34,10 +38,12 @@ Nesse workshop (Oficina) será apresentado aos alunos do Ivision Lab os conceito
 ### 14/08/2018 das 9h às 12h (Luciano Oliveira)
 * 3\. Redes Convolucionais
 
-### 14/08/2018 das 14h às 17h (Kalyf)
+### 14/08/2018 das 14h às 17h (Kalyf Abdalla)
 * 4\. Ferramentas para redes convolucionais
-	* 4.1\. Keras
-	* 4.2\. Tensorflow
+	* 4.1\. Tensorflow
+	* 4.2\. Keras
+	* 4.3\. Classificação de imagens: MNIST
+	* 4.4\. Classificação de imagens: Fashion
 
 ### 15/08/2018 das 9h às 12h e das 14h às 17h (Jefferson Fontinele)
 * 5\. Treinamento e avaliação de redes convolucionais
