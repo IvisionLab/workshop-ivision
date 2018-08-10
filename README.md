@@ -58,5 +58,5 @@ Centro de Capacitação Tecnológica em Automação Industrial - CTAI,  Escola P
 * 6\. Transfere learning
 * 7\. Rede convolucionais modernas
 
-### 16/08/2018 das 14h às 17h (Paulo e Jefferson Fontinele)
+### Papo do Ivision - 16/08/2018 das 14h às 17h (Kalyf Abdalla, Jefferson Fontinele, Luiz Ótavio e Paulo)
 * 7\. Rede convolucionais modernas (continuação ....)
