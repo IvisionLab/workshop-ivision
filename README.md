@@ -28,6 +28,8 @@ Nesse workshop (Oficina) será apresentado aos alunos do Ivision Lab os conceito
 	* 2.3\. Numpy
 	* 2.4\. Matplotlib
 	* 2.5\. Pandas
+	* 2.6\. Sklearn
+	* 2.7\. Skimage
 
 ### 14/08/2018 das 9h às 12h (Luciano Oliveira)
 * 3\. Redes Convolucionais
