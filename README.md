@@ -41,9 +41,12 @@ Centro de Capacitação Tecnológica em Automação Industrial - CTAI,  Escola P
 ### 14/08/2018 das 14h às 17h (Kalyf Abdalla)
 * 4\. Ferramentas para redes convolucionais
 	* 4.1\. Tensorflow
-	* 4.2\. Keras
-	* 4.3\. Classificação de imagens: MNIST
-	* 4.4\. Classificação de imagens: Fashion
+	* 4.2\. Keras Sequential API
+	* 4.3\. Keras Functional API
+	* 4.4\. Generators
+	* 4.5\. MNIST Dataset
+	* 4.6\. Fashion Dataset
+	* 4.7\. ASL Alphabet Dataset
 
 ### 15/08/2018 das 9h às 12h e das 14h às 17h (Jefferson Fontinele)
 * 5\. Treinamento e avaliação de redes convolucionais
