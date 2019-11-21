@@ -7,7 +7,7 @@
 ### Tema
 Artigos relevantes na área de deep learning em 2019.
 
-![Mesa Redonda](https://github.com/IvisionLab/workshop-ivision/imgs/mesa.png "Mesa Redonda")
+![alt text](https://github.com/IvisionLab/workshop-ivision/imgs/mesa.png "Mesa Redonda")
 
 ### Descrição
 Essa mesa redonda propõe uma discussão sobre 2 artigos relevantes para a área de Visão Computacional e Deep Learning.
