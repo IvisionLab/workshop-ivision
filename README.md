@@ -1,13 +1,13 @@
 # Workshop Ivision Lab
 
+![Mesa Redonda](https://raw.githubusercontent.com/IvisionLab/workshop-ivision/master/imgs/mesa.png "Mesa Redonda")
+
 ## Dia 01 de janeiro de 2020
 
 ## Dia 12 de dezembro de 2019
 
 ### Tema
 Artigos relevantes na área de deep learning em 2019.
-
-![Mesa Redonda](https://raw.githubusercontent.com/IvisionLab/workshop-ivision/master/imgs/mesa.png "Mesa Redonda")
 
 ### Descrição
 Essa mesa redonda propõe uma discussão sobre 2 artigos relevantes para a área de Visão Computacional e Deep Learning.
