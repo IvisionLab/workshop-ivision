@@ -3,6 +3,7 @@
 ![Mesa Redonda](https://raw.githubusercontent.com/IvisionLab/workshop-ivision/master/imgs/mesa.png "Mesa Redonda")
 
 ## Dia 01 de janeiro de 2020
+A definir
 
 ## Dia 12 de dezembro de 2019
 
