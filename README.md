@@ -10,6 +10,7 @@ Centro de Capacitação Tecnológica em Automação Industrial - CTAI,  Escola P
 
 ## Dia 31 de janeiro de 2020
 Prof. Luciano e Gabriel
+
 Artigos a definir
 
 ## Dia 12 de dezembro de 2019
