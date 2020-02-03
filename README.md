@@ -8,10 +8,17 @@ Centro de Capacitação Tecnológica em Automação Industrial - CTAI,  Escola P
 
 ![Mesa Redonda](https://raw.githubusercontent.com/IvisionLab/workshop-ivision/master/imgs/mesa.png "Mesa Redonda")
 
-## Dia 31 de janeiro de 2020
-Prof. Luciano e Gabriel
+## Dia 7 de fevereiro de 2020
 
-Artigos a definir
+### Tema
+Artigos relevantes na área de deep learning em 2018.
+
+### Descrição
+
+Essa mesa redonda propõe uma discussão sobre 2 artigos relevantes para a área de Visão Computacional e Deep Learning.
+
+[http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf] Taskonomy: Disentangling Task Transfer Learning (Luciano)
+[https://arxiv.org/abs/1805.09791] Multi-Task Zipping via Layer-wise Neuron Sharing (Gabriel)
 
 ## Dia 12 de dezembro de 2019
 
