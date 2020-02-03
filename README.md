@@ -18,6 +18,7 @@ Artigos relevantes na área de deep learning em 2018.
 Essa mesa redonda propõe uma discussão sobre 2 artigos relevantes para a área de Visão Computacional e Deep Learning.
 
 [Taskonomy: Disentangling Task Transfer Learning](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf)(Luciano)
+
 [Multi-Task Zipping via Layer-wise Neuron Sharing](https://arxiv.org/abs/1805.09791)(Gabriel)
 
 ## Dia 12 de dezembro de 2019
