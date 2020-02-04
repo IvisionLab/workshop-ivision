@@ -11,7 +11,7 @@ Centro de Capacitação Tecnológica em Automação Industrial - CTAI,  Escola P
 ## Dia 7 de fevereiro de 2020
 
 ### Tema
-Artigos relevantes na área de deep learning em 2018.
+Artigos relevantes na área de deep learning em 2018 e 2019.
 
 ### Descrição
 
