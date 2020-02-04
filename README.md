@@ -19,7 +19,7 @@ Essa mesa redonda propõe uma discussão sobre 2 artigos relevantes para a área
 
 [Taskonomy: Disentangling Task Transfer Learning](http://taskonomy.stanford.edu/taskonomy_CVPR2018.pdf)(Luciano)
 
-[Multi-Task Zipping via Layer-wise Neuron Sharing](https://arxiv.org/abs/1805.09791)(Gabriel)
+[On Merging MobileNets for Efficient Multitask Inference](http://www.emc2-ai.org/assets/docs/hpca-19/paper2.pdf)(Gabriel)
 
 ## Dia 12 de dezembro de 2019
 
